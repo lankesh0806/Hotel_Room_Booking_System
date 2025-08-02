@@ -1,5 +1,5 @@
 # Hotel_Room_Booking_System
-Description 
+Description :-
 Developed a console-based Hotel Room Booking System in Java that allows users to book, cancel, and view hotel room reservations. The application supports different room types (e.g., Deluxe, Standard, Suite), pricing, customer details (name, contact number), and booking IDs. Admin or user can also search bookings by customer name or phone number. Canceled bookings are excluded from active booking records. This project demonstrates practical use of OOP, collections, and modular programming to simulate real-world hotel operations.
 
 Key Features:
